@@ -1,0 +1,5 @@
+# All_cryptocurrency_API
+
+这个项目的目的是集合所有虚拟货币交易所的API实现
+
+为以后想要尝试虚拟货币交易的coder提供便利
